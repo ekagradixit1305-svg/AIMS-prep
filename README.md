@@ -1,4 +1,5 @@
 # AIMS-prep
 This is my First Git Repository.
 <br>
-Author- Ekagra
+Author- Ekagra Dixit
+
